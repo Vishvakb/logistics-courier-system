@@ -26,10 +26,7 @@ if(isset($_SESSION['uid'])){
 <body>
     <?php include('header.php'); ?>
     <div align='center' style="font-weight: bold;font-family:'Times New Roman', Times, serif"><br><br><br><br>
-        <h2>This is a Typhoon Courier Management Service</h2>
-        <h4>The fastest courier service of India</h4><br><br>
-        <h3>DBMS MINI PROJECT</h3>
-        <h6>By Group 24</h6>
-    </div>
+        <h2>Courier Logistics Management System</h2>
+     
 </body>
 </html>
