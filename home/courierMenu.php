@@ -82,7 +82,7 @@ $uid = $_SESSION['uid'];
                     <td><input type="textfield" name="raddress" placeholder="receiver address" required></td>
                 </tr>
                 <tr>
-                    <td colspan="4">✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️</td>
+                    <td colspan="4">-----------------------------------------------------------------------</td>
                 </tr>
                 <tr>
                     <td>Weight:</td>
