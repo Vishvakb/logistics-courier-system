@@ -20,7 +20,7 @@ if (isset($_SESSION['uid'])) {
 <body bgcolor="#067d64">
     <h5><a href="../index.php" style="float: right; margin-right:50px; color:#00BCD4">BackToHome</a></h5><br>
     <h1 align='center' style="color: #00BCD4;font-size:60px">Admin Login</h1>
-    <h6 align='center' style="color: #212121;font-weight: bold;font-size:15px">Swagat Nahi Karoge Hamara..</h6>
+    <h6 align='center' style="color: #212121;font-weight: bold;font-size:15px">Welcome to the Courier Logistics Management System</h6>
     <form action="adminlogin.php" method="POST" style="margin: auto;">
         <table align="center">
             <tr>
